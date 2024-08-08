@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EmojiSelector should match the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="emoji-selector"
+  >
+    <h2>
+      Wellbeing Check-in
+    </h2>
+    <p>
+      Hello! How are you feeling today?
+    </p>
+    <div
+      class="emoji-container"
+    >
+      <div
+        class="emoji-item "
+      >
+        <span
+          aria-label="Terrible"
+          role="img"
+        >
+          😞
+        </span>
+        <p>
+          Terrible
+        </p>
+      </div>
+      <div
+        class="emoji-item "
+      >
+        <span
+          aria-label="Bad"
+          role="img"
+        >
+          😟
+        </span>
+        <p>
+          Bad
+        </p>
+      </div>
+      <div
+        class="emoji-item "
+      >
+        <span
+          aria-label="Alright"
+          role="img"
+        >
+          😐
+        </span>
+        <p>
+          Alright
+        </p>
+      </div>
+      <div
+        class="emoji-item "
+      >
+        <span
+          aria-label="Pretty Good"
+          role="img"
+        >
+          😊
+        </span>
+        <p>
+          Pretty Good
+        </p>
+      </div>
+      <div
+        class="emoji-item "
+      >
+        <span
+          aria-label="Fantastic"
+          role="img"
+        >
+          😁
+        </span>
+        <p>
+          Fantastic
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
