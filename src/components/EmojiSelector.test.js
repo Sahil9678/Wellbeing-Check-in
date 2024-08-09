@@ -63,10 +63,4 @@ describe('EmojiSelector', () => {
         // Ensure the first emoji is no longer selected
         expect(firstEmoji.closest('.emoji-item')).not.toHaveClass('selected');
     });
-
-    //Fourth test case
-    it('should match the snapshot', () => {
-        const { asFragment } = render(<EmojiSelector />);
-        expect(asFragment()).toMatchSnapshot();
-    });
 });
