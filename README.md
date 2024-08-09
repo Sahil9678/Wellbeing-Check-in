@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# Wellbeing Check-in Widget
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple React application that allows users to select an emoji to indicate their current wellbeing. The widget is responsive and works on mobile devices, desktops, and tablets.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Select an emoji to indicate your current feeling.
+- Responsive design for various screen sizes.
 
 ### `npm start`
 
